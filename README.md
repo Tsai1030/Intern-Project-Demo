@@ -34,7 +34,9 @@
 
 **專案展示：**
 
-<video src="assets/ziwei.mp4" controls width="100%"></video>
+[![紫微斗數系統展示](https://img.shields.io/badge/▶️_觀看影片-紫微斗數系統-blue?style=for-the-badge)](https://github.com/Tsai1030/Intern-Project-Demo/raw/main/assets/ziwei.mp4)
+
+> 💡 點擊上方按鈕下載並觀看完整展示影片
 
 **負責範疇：**
 - 前端互動介面開發
@@ -51,7 +53,9 @@
 
 **專案展示：**
 
-<video src="assets/iching-nameology.mp4" controls width="100%"></video>
+[![易經與姓名學系統展示](https://img.shields.io/badge/▶️_觀看影片-易經與姓名學-blue?style=for-the-badge)](https://github.com/Tsai1030/Intern-Project-Demo/raw/main/assets/iching-nameology.mp4)
+
+> 💡 點擊上方按鈕下載並觀看完整展示影片
 
 **負責範疇：**
 - 易經卦象推算邏輯
@@ -88,7 +92,9 @@
 
 **專案展示：**
 
-<video src="assets/lens-quant.mp4" controls width="100%"></video>
+[![Lens Quant 深色版展示](https://img.shields.io/badge/▶️_觀看影片-深色主題版-blue?style=for-the-badge)](https://github.com/Tsai1030/Intern-Project-Demo/raw/main/assets/lens-quant.mp4)
+
+> 💡 點擊上方按鈕下載並觀看完整展示影片
 
 #### 設計版本二：淺色主題版
 **設計特色：**
@@ -98,7 +104,9 @@
 
 **專案展示：**
 
-<video src="assets/lens-quant-white.mp4" controls width="100%"></video>
+[![Lens Quant 淺色版展示](https://img.shields.io/badge/▶️_觀看影片-淺色主題版-blue?style=for-the-badge)](https://github.com/Tsai1030/Intern-Project-Demo/raw/main/assets/lens-quant-white.mp4)
+
+> 💡 點擊上方按鈕下載並觀看完整展示影片
 
 **技術實現：**
 - 高效能圖表渲染（ECharts / D3.js）
@@ -115,7 +123,9 @@
 
 **專案展示：**
 
-<video src="assets/institute.mp4" controls width="100%"></video>
+[![金融機構管理系統展示](https://img.shields.io/badge/▶️_觀看影片-管理系統-blue?style=for-the-badge)](https://github.com/Tsai1030/Intern-Project-Demo/raw/main/assets/institute.mp4)
+
+> 💡 點擊上方按鈕下載並觀看完整展示影片
 
 **核心功能：**
 - 📊 業務數據統計與分析
@@ -138,7 +148,9 @@
 
 **專案展示：**
 
-<video src="assets/membership-card.mp4" controls width="100%"></video>
+[![會員卡管理系統展示](https://img.shields.io/badge/▶️_觀看影片-會員卡系統-blue?style=for-the-badge)](https://github.com/Tsai1030/Intern-Project-Demo/raw/main/assets/membership-card.mp4)
+
+> 💡 點擊上方按鈕下載並觀看完整展示影片
 
 **核心功能：**
 - 💳 會員卡視覺化設計

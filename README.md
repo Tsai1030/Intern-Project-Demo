@@ -36,8 +36,6 @@
 
 https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/ziwei/ziwei.mp4
 
-[📹 觀看展示影片](./demos/ziwei/ziwei.mp4)
-
 **負責範疇：**
 - 前端互動介面開發
 - 命盤計算邏輯實現
@@ -54,8 +52,6 @@ https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/ziwei/ziwei.mp4
 **專案展示：**
 
 https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/ziwei/iching%20+%20nameology.mp4
-
-[📹 觀看展示影片](./demos/ziwei/iching%20+%20nameology.mp4)
 
 **負責範疇：**
 - 易經卦象推算邏輯
@@ -94,8 +90,6 @@ https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/ziwei/iching%20+%20
 
 https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/lens-quant/Lens%20quant.mp4
 
-[📹 觀看展示影片](./demos/lens-quant/Lens%20quant.mp4)
-
 #### 設計版本二：淺色主題版
 **設計特色：**
 - 清爽的白色主題設計
@@ -105,8 +99,6 @@ https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/lens-quant/Lens%20q
 **專案展示：**
 
 https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/lens-quant/Lens%20quant%20white.mp4
-
-[📹 觀看展示影片](./demos/lens-quant/Lens%20quant%20white.mp4)
 
 **技術實現：**
 - 高效能圖表渲染（ECharts / D3.js）
@@ -124,8 +116,6 @@ https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/lens-quant/Lens%20q
 **專案展示：**
 
 https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/institute/insitute.mp4
-
-[📹 觀看展示影片](./demos/institute/insitute.mp4)
 
 **核心功能：**
 - 📊 業務數據統計與分析
@@ -149,8 +139,6 @@ https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/institute/insitute.
 **專案展示：**
 
 https://github.com/Tsai1030/Intern-Project-Demo/assets/demos/membership-card/會員卡.mp4
-
-[📹 觀看展示影片](./demos/membership-card/會員卡.mp4)
 
 **核心功能：**
 - 💳 會員卡視覺化設計
